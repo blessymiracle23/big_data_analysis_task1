@@ -1,0 +1,9 @@
+product_id,category,price,quantity
+101,Electronics,199.99,1
+102,Clothing,49.99,2
+103,Clothing,29.99,3
+104,Grocery,10.99,5
+105,Electronics,249.99,1
+106,Grocery,5.49,10
+107,Books,15.99,4
+108,Books,9.99,7
